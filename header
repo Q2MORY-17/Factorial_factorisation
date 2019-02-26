@@ -1,5 +1,5 @@
 %Excel Table
-T = xlsread('<enter data/table excel path - size[dbl 21*13]>');
+T = xlsread('<enter data/table excel path - size[dbl 21*18]>');
 
 %general variables
 Ap=T(17,3);           
