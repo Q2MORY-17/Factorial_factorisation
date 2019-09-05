@@ -46,5 +46,3 @@ grid on;
 figure;
 probplot(CleanEffect);
 grid on;
-
-%KING NERD edit
